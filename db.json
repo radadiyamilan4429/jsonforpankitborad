@@ -1,0 +1,14 @@
+{
+
+"posts":[
+{"id": 1, "title": "post1", "description": "this is description 1"},
+],
+"comments": [
+{ "id": 1, "body": "comments 1", "posted": 1}
+],
+"profile":{
+"name": "profile 1"
+
+}
+
+}
